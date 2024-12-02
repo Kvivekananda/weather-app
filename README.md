@@ -20,7 +20,7 @@ Clone this repository:
 
 bash      
 Copy code
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/Kvivekananda/weather-app.git
 Navigate to the project directory:
 
 bash
